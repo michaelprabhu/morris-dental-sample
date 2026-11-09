@@ -1,0 +1,19 @@
+{
+  "business": "Morris Dental Associates",
+  "location": "Abilene, TX",
+  "category": "dentist",
+  "slug": "morris-dental-sample",
+  "planned_url": "https://michaelprabhu.github.io/morris-dental-sample/",
+  "sample_only": true,
+  "official_site": false,
+  "affiliation_claimed": false,
+  "noindex": true,
+  "photo_id": "4269276",
+  "photographer": "Cedric Fauntleroy",
+  "photo_source": "https://www.pexels.com/photo/back-view-of-a-dental-chair-in-a-clinic-4269276/",
+  "photo_license": "https://www.pexels.com/license/",
+  "contact_or_booking_enabled": false,
+  "email_or_phone_included": false,
+  "visual_review_status": "passed",
+  "visual_review_notes": "Full-size visual check passed; no third-party logo, business signage, license plate, or readable business-identifying mark found. Stock photo is illustrative only, not a photo of this business, its staff, or its property."
+}
